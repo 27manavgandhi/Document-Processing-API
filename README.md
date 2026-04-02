@@ -2,6 +2,8 @@
 
 Enterprise-grade asynchronous document processing system built with Node.js, TypeScript, PostgreSQL, Redis, and BullMQ.
 
+<img width="876" height="2271" alt="_- visual selection" src="https://github.com/user-attachments/assets/51344bc5-ccff-4893-b194-89f397effb9c" />
+
 ## Features
 
 - ✅ Asynchronous job processing with queue architecture
